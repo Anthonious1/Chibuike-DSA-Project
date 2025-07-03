@@ -37,4 +37,7 @@ EDA involved the exploration of the data to answer some questions about the Data
 ### Data Analysis
 This is where I include some basic lines of codes or queries or even some of the DAX expressions used during my analysis.
 
-
+``` 
+Select A,B,C
+Where A> 15
+```
