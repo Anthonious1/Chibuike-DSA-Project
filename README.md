@@ -18,5 +18,23 @@ The data can be downloaded from an online source.
     2. Data Munching
     3. Data Simulation
   - For Data Collection
-- Power BI ( For Creating report viewing)
+- Power BI [Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (For Creating report viewing)
 - MS Power Point (For Presentation)
+
+  ### Data Cleaning and Preparation
+The initial step for the data cleaning and Preparation, I performed the following action
+- Data Loading and inspection
+- Handling Missing Variables
+- Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploration of the data to answer some questions about the Data such as;
+- What is the the overall existing didaster types
+- Which disaster types are most freqent
+- Which disaster are less frequent
+
+
+### Data Analysis
+This is where I include some basic lines of codes or queries or even some of the DAX expressions used during my analysis.
+
+
